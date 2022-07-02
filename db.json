@@ -1,0 +1,7 @@
+{
+    "posts": [
+      { "id": 1, "title": "Crud em Quasar", "author": "Sávio Gomes", "content": "artigo sobre quasar e vue 3" },
+      { "id": 2, "title": "Crud em Quasar", "author": "Sávio Gomes", "content": "artigo sobre quasar e rest api" }
+    ]
+    
+  }
