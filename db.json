@@ -1,7 +1,64 @@
 {
-    "posts": [
-      { "id": 1, "title": "Crud em Quasar", "author": "Sávio Gomes", "content": "artigo sobre quasar e vue 3" },
-      { "id": 2, "title": "Crud em Quasar", "author": "Sávio Gomes", "content": "artigo sobre quasar e rest api" }
-    ]
-    
-  }
+  "posts": [
+    {
+      "id": 1,
+      "title": "Crud em Quasar",
+      "author": "Sávio Gomes",
+      "content": "Domius vobis cum",
+      "years": 25,
+      "address": "Recife",
+      "country": "Brasil",
+      "fone": "3474764-22",
+      "email": "3474764-22",
+      "github": "portuga/02"
+    },
+    {
+      "id": 2,
+      "title": "Crud em Quasar",
+      "author": "Maria Eduarda",
+      "content": "Maria dulinha",
+      "years": 22,
+      "address": "Recife",
+      "country": "Brasil",
+      "fone": "3474764-22",
+      "email": "3474764-22",
+      "github": "portuga/02"
+    },
+    {
+      "id": 3,
+      "title": "Emanuel Nelson ",
+      "author": "Sávio Gomes",
+      "content": "artigo sobre quasar e vue 3",
+      "years": 22,
+      "address": "Recife",
+      "country": "Brasil",
+      "fone": "3474764-22",
+      "email": "3474764-22",
+      "github": "portuga/02"
+    },
+    {
+      "title": "Novo dado",
+      "content": "per ommia seculae secuolrum",
+      "author": "Savio gomes",
+      "years": "34",
+      "address": "Rua professor bandeira",
+      "country": "brasil",
+      "fone": "34343432",
+      "email": "savio@teste.com",
+      "github": "portuga02",
+      "id": 7
+    },
+    {
+      "title": "furusteco",
+      "content": "Dominus vobis cum",
+      "author": "savio",
+      "years": "29",
+      "address": "estado do vaticano",
+      "country": "vaticano",
+      "fone": "1381290",
+      "email": "savio@gmail.com",
+      "github": "portuga02",
+      "id": 8
+    }
+  ]
+}
